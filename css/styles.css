@@ -27,7 +27,8 @@ nav{
 }
 
 #nav-wrap{
-	padding-left: 70px;
+	padding-left: 60px;
+	display: inline;
 
 }
 
@@ -59,9 +60,14 @@ section{
 	background-color: grey;
 }
 
+#spacer{
+	height:53px;
+	display:none;
+}
 
+#small-logo{
 
-
+}
 
 
 
